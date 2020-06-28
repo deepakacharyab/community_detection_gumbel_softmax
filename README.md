@@ -2,7 +2,7 @@
     
 -The folder dataset has all the datasets used in our experiments, and the dataset was downloaded from konect. 
 
--The folder CDCGS has all the experiments performed to find the community and cluster them.
+-The folder CDCGS has all the experiments performed to find the community, cluster and to find the metrics measures.
 
 -The folder dataset_modularity_calculation is used to calculate the modularity measure for different algorithms.
 
